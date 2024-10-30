@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+int factorial(int n) {
+    
+   
+if (n <= 1)
+        return 1;
+    
+    el
+
+   
+else
+        return n * factorial(n - 1);
+}
+
+int main() {
+    
+    in
+
+   
+int num;
+    
+    printf("정수를 입력하세요: ");
+    scanf("%d", &num);
+    
+    
+ 
+printf("%d의 팩토리얼은 %d입니다.\n", num, factorial(num));
+    
+    
+    
+    re
+
+    
+    
+
+    
+ 
+
+   
+return 0;
+}
