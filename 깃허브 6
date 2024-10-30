@@ -1,0 +1,57 @@
+#include <stdio.h>
+
+#
+#include <string.h>
+
+
+
+i
+int main() {
+    
+   
+char str[100];
+    
+    
+    
+    
+
+   
+printf("문자열을 입력하세요: ");
+    
+    sc
+
+ 
+scanf("%s", str);
+    
+    
+    
+   
+int len = strlen(str);
+    
+    pr
+
+ 
+printf("반대로 출력: ");
+    
+    
+    
+    f
+
+    
+  
+
+   
+for(int i = len - 1; i >= 0; i--) {
+        printf("%c", str[i]);
+    }
+    
+    }
+
+  
+printf("\n");
+    
+    
+    
+  
+return 0;
+}
