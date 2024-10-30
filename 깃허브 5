@@ -1,0 +1,46 @@
+#include <stdio.h>
+
+
+
+in
+int main() {
+    int i, j;
+    
+    
+   
+
+ 
+for(i = 1; i <= 9; i++) {
+        for(j = 1; j <= 9; j++) {
+            
+            print
+
+          
+
+       
+
+    
+
+ 
+printf("%d x %d = %d\n", i, j, i * j);
+        }
+        
+        }
+        pr
+
+        }
+  
+
+        }
+
+     
+
+ 
+printf("\n"); // 단락을 구분하는 빈 줄
+    }
+    
+    
+    }
+    
+return 0;
+}
