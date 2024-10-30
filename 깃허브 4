@@ -1,0 +1,121 @@
+#include <stdio.h>
+
+
+
+in
+int main() {
+    
+   
+int n, i, max;
+    
+    
+    
+   
+
+    
+printf("숫자의 개수를 입력하세요: ");
+    
+    s
+scanf("%d", &n);
+    
+    
+    
+    
+
+    
+
+  
+int arr[n];
+    
+    prin
+printf("숫자를 입력하세요:\n");
+    
+    
+    
+    fo
+
+    
+ 
+
+ 
+for(i = 0; i < n; i++) {
+        
+        scan
+
+        s
+
+      
+
+  
+scanf("%d", &arr[i]);
+    }
+    
+    max = arr[
+    }
+    
+    max = arr
+
+    }
+    
+    ma
+
+    }
+    
+   
+
+    }
+    
+
+    }
+  
+
+    
+0];
+    
+   
+
+ 
+for(i = 1; i < n; i++) {
+        
+       
+if(arr[i] > max)
+            max = arr[i];
+    }
+    
+    
+            max = arr[i];
+    }
+    
+   
+
+            max = arr[i];
+    }
+    
+
+            max = arr[i];
+    }
+
+            max = arr[i];
+  
+
+            max = arr[i
+
+            max = a
+
+            max
+
+           
+
+      
+printf("최대값은 %d입니다.\n", max);
+    
+    
+    
+    retu
+
+    
+    
+
+    
+return 0;
+}
