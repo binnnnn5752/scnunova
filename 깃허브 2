@@ -1,0 +1,54 @@
+#include <stdio.h>
+
+int main() {
+    
+    in
+
+   
+int a, b, sum;
+    
+    
+    
+    print
+
+    
+    pr
+
+    
+   
+printf("첫 번째 숫자를 입력하세요: ");
+    scanf("%d", &a);
+    
+    printf("두 번째 숫자를 입력하세요: ");
+    scanf("%d", &b);
+    
+    sum = a + b;
+    
+    
+    sum = a + b;
+    pri
+
+    
+    sum = a + b;
+    
+
+    
+    sum = a + b;
+
+    
+    sum = 
+
+    
+    sum
+printf("두 수의 합은 %d입니다.\n", sum);
+    
+    
+    
+   
+
+    
+ 
+
+   
+return 0;
+}
